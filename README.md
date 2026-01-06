@@ -373,10 +373,6 @@ To avoid costs, delete:
 * IAM role
 * S3 buckets
 
-
-Great catch — that’s an important real-world troubleshooting scenario and very valuable for anyone following your project 👍
-Here’s a clean, detailed section you can **paste directly into your README**, written in the same “what + why + fix” style as the rest of the guide.
-
 ---
 
 ## Troubleshooting — Runtime.ImportModule Error (Handler Name Mismatch)
